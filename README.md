@@ -1,6 +1,7 @@
 Olá, eu sou a Amanda Kicke👋<br><br>
 👀 Sou uma advogada em processo de transição de carreira. Estou decidida a me tornar uma Desenvolvedora Web💪🥰.<br>
 👩‍🎓 Estou cursando o primeiro semestre de Análise e Desenvolvimento de Sistemas.<br>
+🚀Em busca de um estágio na área😊
 📚 E também estudando HTML5, CSS, JavaScript, Git...<br><br>
 
 
@@ -30,5 +31,8 @@ You can click the Preview link to take a look at your changes.
   <a href="https://instagram.com/amandakicke" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	
   <a href = "mailto:amandakicke@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+   ![Snake animation](https://github.com/amandakicke/amandakicke/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>  
   
