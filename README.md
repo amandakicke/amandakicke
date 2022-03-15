@@ -1,6 +1,6 @@
 Olá, eu sou a Amanda Kicke👋<br><br>
 👀 Sou uma advogada em processo de transição de carreira. Estou decidida a me tornar uma Desenvolvedora Web💪🥰.<br>
-👩‍🎓 Estou cursando o primeiro semestre de Análise e Desenvolvimento de Sistemas.<br>
+👩‍🎓 Cursando o primeiro semestre de Análise e Desenvolvimento de Sistemas.<br>
 🚀Em busca de um estágio na área😊
 📚 E também estudando HTML5, CSS, JavaScript, Git...<br><br>
 
