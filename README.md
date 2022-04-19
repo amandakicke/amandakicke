@@ -3,7 +3,7 @@ Olá, eu sou a Amanda Kicke👋<br><br>
 💪🥰Estou decidida a me tornar uma Desenvolvedora Web.<br>
 👩‍🎓 Cursando o primeiro semestre de Análise e Desenvolvimento de Sistemas.<br>
 🚀Em busca de um estágio na área😊
-📚 E também estudando HTML5, CSS, JavaScript, Git...<br><br>
+📚 E também estudando HTML5, CSS, JavaScript, Java, React, Git...<br><br>
 
 
 
@@ -24,6 +24,7 @@ You can click the Preview link to take a look at your changes.
     <img align="center" alt="Amanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Amanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Amanda-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+    <img align="center" alt="Amanda-React" height="30" width="40" src="https://img.icons8.com/color/48/000000/react-native.png">
 <br><br><br>
   </div>    
     
